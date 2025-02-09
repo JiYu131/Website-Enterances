@@ -1,2 +1,2 @@
 # Website-Enterances
-[抖音](runoob.com)
+[抖音](https://www.bmm53.com)
