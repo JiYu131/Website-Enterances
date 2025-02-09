@@ -1,2 +1,2 @@
 # Website-Enterances
-[抖音](www.douyin.com)
+[抖音](www.bmm53.com)
