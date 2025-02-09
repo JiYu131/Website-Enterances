@@ -1,2 +1,3 @@
 # Website-Enterances
-[抖音](https://www.bmm53.com)
+[进入](https://www.bks66.com)
+[抖音](https://www.douyin.com)
