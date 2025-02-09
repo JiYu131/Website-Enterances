@@ -8,3 +8,5 @@
 [菜鸟教程](https://www.runoob.com)
 
 [快手](https://www.kuaishou.com)
+
+[萌娘百科](https://mzh.moegirl.org.cn)
