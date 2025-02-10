@@ -12,3 +12,7 @@
 [萌娘百科](https://www.moegirl.org.cn)
 
 [维基镜像](https://www.chinapeida.com)
+
+[Itch](https://www.itch.io)
+
+[]
