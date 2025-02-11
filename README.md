@@ -17,4 +17,6 @@
 
 [VS Code for Web](https://www.vscode.dev)
 
+[酷狗](https://www.kugou.com)
+
 [OSU!](https://www.ppy.osu.sh)
