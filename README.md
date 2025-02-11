@@ -17,6 +17,6 @@
 
 [VS Code for Web](https://www.vscode.dev)
 
-[酷狗](https://www.kugou.com)
+[网易云音乐](https://music.163.com)
 
 [OSU!](https://www.ppy.osu.sh)
