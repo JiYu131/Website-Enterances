@@ -20,3 +20,5 @@
 [网易云音乐](https://music.163.com)
 
 [OSU!](https://www.ppy.osu.sh)
+
+[cs](https://www.play-cs.com)
