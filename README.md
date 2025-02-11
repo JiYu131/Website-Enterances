@@ -15,4 +15,6 @@
 
 [Itch](https://www.itch.io)
 
-[Visal Studio Code for Web](https://www.vscode.dev)
+[VS Code for Web](https://www.vscode.dev)
+
+[OSU!](https://www.ppy.osu.sh)
