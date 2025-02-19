@@ -1,5 +1,5 @@
 # Website-Enterances
-[进入](https://www.bmm53.com)
+[进入](https://www.jjxx3.cc)
 
 [抖音](https://www.douyin.com)
 
