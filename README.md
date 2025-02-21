@@ -1,5 +1,5 @@
 # Website-Enterances
-[进入](https://www.17x.com)
+[进入](https://www.bks66.com)
 
 [抖音](https://www.douyin.com)
 
