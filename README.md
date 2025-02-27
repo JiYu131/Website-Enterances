@@ -13,6 +13,7 @@
 
 [维基镜像](https://www.chinapeida.com)
 
+[WikiHow](www.wikihow.com)
 [Itch](https://www.itch.io)
 
 [VS Code for Web](https://www.vscode.dev)
