@@ -13,7 +13,8 @@
 
 [维基镜像](https://www.chinapeida.com)
 
-[WikiHow](www.wikihow.com)
+[WikiHow](https://www.wikihow.com)
+
 [Itch](https://www.itch.io)
 
 [VS Code for Web](https://www.vscode.dev)
@@ -23,3 +24,5 @@
 [OSU!](https://www.ppy.osu.sh)
 
 [cs](https://www.play-cs.com)
+
+[IKVAL](https://www.ikval.com/cs2)
