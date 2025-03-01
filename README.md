@@ -1,5 +1,6 @@
 # Website-Enterances
-[进入](https://www.bks66.com)
+*恭喜你来到这里，你已经成功了*
+*下面是常用网站列表，点击之后可以直接进入*
 
 [抖音](https://www.douyin.com)
 
@@ -21,8 +22,8 @@
 
 [网易云音乐](https://music.163.com)
 
-[OSU!](https://www.ppy.osu.sh)
+[哔哩哔哩](https://www.bilibili.com)
 
-[cs](https://www.play-cs.com)
+[百度](https://www.baidu.com)
 
-[IKVAL](https://www.ikval.com/cs2)
+# 其他网站会在未来更新，也可以最简单粗暴地通过百度，必应等搜索引擎直接进入
