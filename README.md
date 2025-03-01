@@ -26,6 +26,8 @@
 >[哔哩哔哩](https://www.bilibili.com)
 
 >[百度](https://www.baidu.com)
+>
+>[BA中文站](https://ba.gamekee.com)
 
 # 其他网站会在未来更新，也可以最简单粗暴地通过百度，必应等搜索引擎直接进入
 
